@@ -1,0 +1,26 @@
+id pasajero(int);sobreviviente(bool);clase varchar(1);nombre varchar(50);sexo varchar(10);edad int;sibsp int;parch int;ticket varchar(15);tarifa float;cabina varchar(15);embarcar varchar(1);mayorde_edad bool
+1;0;3;Braund, Mr. Owen Harris;male;22;1;0;A/5 21171;7,25;;S;1
+2;1;1;Cumings, Mrs. John Bradley (Florence Briggs Thayer;female;38;1;0;PC 17599;712,833;C85;C;1
+3;1;3;Heikkinen, Miss. Laina;female;26;0;0;STON/O2. 310128;7,925;;S;1
+4;1;1;Futrelle, Mrs. Jacques Heath (Lily May Peel);female;35;1;0;113803;53,1;C123;S;1
+5;0;3;Allen, Mr. William Henry;male;35;0;0;373450;8,05;;S;1
+6;0;3;Moran, Mr. James;male;0;0;0;330877;84,583;;Q;0
+7;0;1;McCarthy, Mr. Timothy J;male;54;0;0;17463;518,625;E46;S;1
+8;0;3;Palsson, Master. Gosta Leonard;male;2;3;1;349909;21,075;;S;0
+9;1;3;Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg);female;27;0;2;347742;111,333;;S;1
+10;1;2;Nasser, Mrs. Nicholas (Adele Achem);female;14;1;0;237736;300,708;;C;0
+ ; ; ; ; ; ; ; ; ; ; ; ; 
+882;0;3;Markun, Mr. Johann;male;33;0;0;349257;78,958;;S;1
+883;0;3;Dahlberg, Miss. Gerda Ulrika;female;22;0;0;7552;105,167;;S;1
+884;0;2;Banfield, Mr. Frederick James;male;28;0;0;C.A./SOTON 3406;10,5;;S;1
+885;0;3;Sutehall, Mr. Henry Jr;male;25;0;0;SOTON/OQ 392076;7,05;;S;1
+886;0;3;Rice, Mrs. William (Margaret Norton);female;39;0;5;382652;29,125;;Q;1
+887;0;2;Montvila, Rev. Juozas;male;27;0;0;211536;13,0;;S;1
+888;1;1;Graham, Miss. Margaret Edith;female;19;0;0;112053;30,0;B42;S;1
+889;0;3;"Johnston, Miss. Catherine Helen ""Carrie""";female;0;1;2;W./C. 6607;23,45;;S;0
+890;1;1;Behr, Mr. Karl Howell;male;26;0;0;111369;30,0;C148;C;1
+891;0;3;Dooley, Mr. Patrick;male;32;0;0;370376;7,75;;Q;1
+Dimensiones de la tabla;2;Numero de datos que contiene;11583;Porcentaje de personas que sobrevivieron;38,38;Porcentaje de personas que fallecieron;61,62;Porcentaje de personas que sobrevivieron en primera clase;62,96;Porcentaje de personas que sobrevivieron en segunda clase;47,28; 
+Porcentaje de personas que sobrevivieron en tercera clase;24,24;Edad media de las mujeres en primera clase;31,3;Edad media de las mujeres en segunda clase;27,97;Edad media de las mujeres en tercera clase;15,42;Porcentaje de menores que sobrevivieron en primera clase;18,38;Porcentaje de menores que sobrevivieron en segunda clase;28,74; 
+Porcentaje de menores que sobrevivieron en tercera clase;52,94;Porcentaje de mayores que sobrevivieron en primera clase;81,62;Porcentaje de mayores que sobrevivieron en segunda clase;71,26;Porcentaje de mayores que sobrevivieron en tercera clase;47,06;Datos del pasajero con ID 148:; ; ; ; 
+148;0;3;"Ford, Miss. Robina Maggie ""Ruby""";female;9;2;2;W./C. 6608;34.375;;S;0
